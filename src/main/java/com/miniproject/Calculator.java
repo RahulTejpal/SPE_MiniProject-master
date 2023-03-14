@@ -5,7 +5,7 @@ public class Calculator {
 
     
     public static double squareroot(double x){
-                    double result = Math.sqrt(x);
+                    double result  = Math.sqrt(x);
                     return result;           
     }
     public static long factorial(int num){
