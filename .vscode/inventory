@@ -1,0 +1,2 @@
+[client1]
+172.16.136.13 ansible_ssh_user=rahul ansible_ssh_pass=@Triofrio7 sudo=rahul ansible_sudo_pass=@Triofrio7
