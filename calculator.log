@@ -1,0 +1,4 @@
+2023-03-18 15:01:33.899 [main] INFO  com.miniproject.Calculator - [SQUARE ROOT] - 9.0
+2023-03-18 15:01:33.900 [main] INFO  com.miniproject.Calculator - [RESULT - SQUARE ROOT] - 3.0
+2023-03-20 21:48:30.165 [main] INFO  com.miniproject.Calculator - [FACTORIAL] - 5
+2023-03-20 21:48:30.170 [main] INFO  com.miniproject.Calculator - [RESULT - FACTORIAL] - 120
