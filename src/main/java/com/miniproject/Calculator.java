@@ -9,12 +9,18 @@ public class Calculator {
     }
     // https://my-deployment-ca5d14.kb.us-central1.gcp.cloud.es.io:9243/app/home#/
     public static double squareroot(double x){
+        if(x<0){
+            return -1;
+        }
                     logger.info("[SQUARE ROOT] - " + x);
                     double result = Math.sqrt(x);
                     logger.info("[RESULT - SQUARE ROOT] - " + result);
                     return result;           
     }
     public static long factorial(int x){
+        if(x<0){
+            return -1;
+        }
                     logger.info("[FACTORIAL] - " + x);
                     long fact = 1;
                     for (int i = 1; i <= x; i++) {
@@ -24,6 +30,9 @@ public class Calculator {
                     return fact;
     }
     public static double log(double x){
+        if(x<0){
+            return -1;
+        }
         logger.info("[LOG] - " + x);
         double anslog = Math.log(x);
         logger.info("[RESULT - LOG] - " + anslog);

@@ -4,3 +4,11 @@
 2023-03-20 21:48:30.170 [main] INFO  com.miniproject.Calculator - [RESULT - FACTORIAL] - 120
 2023-03-20 22:02:03.660 [main] INFO  com.miniproject.Calculator - [SQUARE ROOT] - 12.0
 2023-03-20 22:02:03.665 [main] INFO  com.miniproject.Calculator - [RESULT - SQUARE ROOT] - 3.4641016151377544
+2023-03-21 22:03:13.917 [main] INFO  com.miniproject.Calculator - [FACTORIAL] - -6
+2023-03-21 22:03:13.918 [main] INFO  com.miniproject.Calculator - [RESULT - FACTORIAL] - 1
+2023-03-21 22:03:13.922 [main] INFO  com.miniproject.Calculator - [FACTORIAL] - 5
+2023-03-21 22:03:13.922 [main] INFO  com.miniproject.Calculator - [RESULT - FACTORIAL] - 120
+2023-03-21 22:05:52.839 [main] INFO  com.miniproject.Calculator - [FACTORIAL] - 5
+2023-03-21 22:05:52.841 [main] INFO  com.miniproject.Calculator - [RESULT - FACTORIAL] - 120
+2023-03-21 22:07:11.720 [main] INFO  com.miniproject.Calculator - [SQUARE ROOT] - 12.0
+2023-03-21 22:07:11.722 [main] INFO  com.miniproject.Calculator - [RESULT - SQUARE ROOT] - 3.4641016151377544
