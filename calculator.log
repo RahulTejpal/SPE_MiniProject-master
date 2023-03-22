@@ -60,3 +60,17 @@
 2023-03-22 11:29:56.001 [main] INFO  Calculator - [RESULT - LOG] - 2.302585092994046
 2023-03-22 11:29:56.002 [main] INFO  Calculator - [FACTORIAL] - 5
 2023-03-22 11:29:56.002 [main] INFO  Calculator - [RESULT - FACTORIAL] - 120
+2023-03-22 12:21:17.263 [main] INFO  Calculator - [FACTORIAL] - 5
+2023-03-22 12:21:17.265 [main] INFO  Calculator - [RESULT - FACTORIAL] - 120
+2023-03-22 12:21:21.054 [main] INFO  Calculator - [TWOPOWER] - 2.0AND3.0
+2023-03-22 12:21:21.056 [main] INFO  Calculator - [RESULT - TWOPOWER] - 8.0
+2023-03-22 12:21:21.057 [main] INFO  Calculator - [TWOPOWER] - -2.0AND3.0
+2023-03-22 12:21:21.057 [main] INFO  Calculator - [RESULT - TWOPOWER] - -8.0
+2023-03-22 12:21:21.057 [main] INFO  Calculator - [TWOPOWER] - -0.5AND-3.0
+2023-03-22 12:21:21.057 [main] INFO  Calculator - [RESULT - TWOPOWER] - -8.0
+2023-03-22 12:21:21.058 [main] INFO  Calculator - [SQUARE ROOT] - 25.0
+2023-03-22 12:21:21.059 [main] INFO  Calculator - [RESULT - SQUARE ROOT] - 5.0
+2023-03-22 12:21:21.059 [main] INFO  Calculator - [LOG] - 10.0
+2023-03-22 12:21:21.059 [main] INFO  Calculator - [RESULT - LOG] - 2.302585092994046
+2023-03-22 12:21:21.060 [main] INFO  Calculator - [FACTORIAL] - 5
+2023-03-22 12:21:21.060 [main] INFO  Calculator - [RESULT - FACTORIAL] - 120
